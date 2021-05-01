@@ -1,0 +1,27 @@
+#div1{
+
+    height: 22px;
+    background-color: blue;
+    width: 45px;
+    position: fixed;
+}
+#div2{
+
+    height: 22px;
+    background-color:red;
+    width: 80em;
+    text-align: center;
+    position: sticky;
+    top: 12px;
+
+}
+#div3{
+
+    height: 22px;
+    background-color:cyan;
+    width: 80em;
+    position: absolute;
+    top: 40em;
+    text-align: center;
+
+}
