@@ -5,6 +5,13 @@
     width: 45px;
     position: fixed;
 }
+#h1{
+    left: 30px;
+    margin-top: 40px;
+    margin-left: 5em;
+
+    text-shadow: 2px 2px red;
+}
 #div2{
 
     height: 22px;
