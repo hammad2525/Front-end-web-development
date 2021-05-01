@@ -9,8 +9,13 @@
     left: 30px;
     margin-top: 40px;
     margin-left: 5em;
+    color: white;
 
-    text-shadow: 2px 2px red;
+    text-shadow: 4px 4px red;
+}
+#p1{
+    color: cadetblue;
+    text-shadow: darkgoldenrod;
 }
 #div2{
 
